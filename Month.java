@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Month {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter Number\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12");
+        System.out.println("Enter Number (1 To 12) ");
         int month= sc.nextInt();
         switch(month){
             case 1:System.out.println("Jan");
