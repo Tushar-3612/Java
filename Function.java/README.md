@@ -8,12 +8,14 @@ Each program demonstrates the use of **methods (functions)** along with **user i
 - **Division.java** → Performs division of two numbers using a separate function.  
 - **Factorial.java** → Calculates the factorial of a number using a function.  
 - **SumAndAverage.java** → Accepts multiple numbers from the user and calculates both sum and average using functions.  
-- **Function.java** → Example file showing function declaration, definition, and usage.  
+- **Function.java** → Example file showing function declaration, definition, and usage .
 
 ## Key Concepts Covered
 - Function declaration and calling in Java  
 - Returning values from functions  
 - Taking input from the user using `Scanner`  
-- Basic problem-solving using methods  
+- Basic problem-solving using methods
+- It is very simple and helpful for handling and understanding .
+  
 
 
