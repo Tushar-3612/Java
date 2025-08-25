@@ -16,6 +16,15 @@ Each program demonstrates the use of **methods (functions)** along with **user i
 - Taking input from the user using `Scanner`  
 - Basic problem-solving using methods
 - It is very simple and helpful for handling and understanding .
+
+- ## If You Want Learn These From Basic To Advance You Watch it 👇
+- ## Resources (Videos)
+
+1. [Functions in Java | Apna College](https://www.youtube.com/watch?v=xVFY3TTaK7Y)  
+2. [Methods in Java | CodeWithHarry](https://www.youtube.com/watch?v=q6pw4N2EG14)  
+3. [Java User Input (Scanner Class) | Telusko](https://www.youtube.com/watch?v=3GRxgtVx9Oc)  
+4. [Learn Java in One Video | Programming with Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34)  
+
   
 
 
