@@ -50,7 +50,7 @@ Each question is solved in a **separate `.java` file** for clarity.
 1. Open any Java IDE (Eclipse, IntelliJ, VS Code) or terminal.  
 2. Compile the file:  
    ```bash
-   javac FileName.java
+   1st command in vs code javac FileName.java
 
 ## 📖 Resources  
 
