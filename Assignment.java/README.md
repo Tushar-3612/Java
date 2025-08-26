@@ -1,9 +1,53 @@
-Exercise 1 
-Questions 
-1. Enter 3 numbers from the user & make a function to print their average. 
-2. Write a function to print the sum of all odd numbers from 1 to n. 
-3. Write a function which takes in 2 numbers and returns the greater of those two. 
-4. Write a function that takes in the radius as input and returns the circumference of a circle. 
-5. Write a function that takes in age as input and returns if that person is eligible to vote or not. A person of age > 18 is eligible to vote. 
-6. Write an infinite loop using do while condition.
-7. Write a program to enter the numbers till the user wants and at the end it should display the count of positive, negative and zeros entered. 
+# Java Assignment - Exercise 1  
+
+This folder contains solutions to basic Java function and loop practice problems.  
+Each question is solved in a **separate `.java` file** for clarity.  
+
+---
+
+## 📌 Questions  
+
+1. **Average of 3 Numbers**  
+   - Take 3 numbers as input from the user.  
+   - Write a function to calculate and print their average.  
+   - File: `AverageOfThree.java`
+
+2. **Sum of Odd Numbers (1 to n)**  
+   - Take input `n` from the user.  
+   - Write a function to return the sum of all odd numbers from `1` to `n`.  
+   - File: `SumOddNumbers.java`
+
+3. **Greater of Two Numbers**  
+   - Take 2 numbers as input.  
+   - Write a function that returns the greater of the two.  
+   - File: `GreaterNumber.java`
+
+4. **Circumference of Circle**  
+   - Take radius as input.  
+   - Write a function that returns the circumference of the circle.  
+   - Formula: `2 * π * r`  
+   - File: `CircleCircumference.java`
+
+5. **Voting Eligibility**  
+   - Take age as input.  
+   - Write a function that returns if a person is eligible to vote.  
+   - Condition: Age > 18 → Eligible.  
+   - File: `VotingEligibility.java`
+
+6. **Infinite Loop using Do-While**  
+   - Write a program to demonstrate an infinite loop using `do-while`.  
+   - File: `InfiniteLoop.java`
+
+7. **Count Positive, Negative & Zeros**  
+   - Continuously take numbers as input until the user chooses to stop.  
+   - At the end, display the count of positive, negative, and zero numbers entered.  
+   - File: `NumberCounter.java`
+
+---
+
+## 🚀 How to Run  
+
+1. Open any Java IDE (Eclipse, IntelliJ, VS Code) or terminal.  
+2. Compile the file:  
+   ```bash
+   javac FileName.java
