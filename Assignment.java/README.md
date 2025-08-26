@@ -6,3 +6,4 @@ Questions
 4. Write a function that takes in the radius as input and returns the circumference of a circle. 
 5. Write a function that takes in age as input and returns if that person is eligible to vote or not. A person of age > 18 is eligible to vote. 
 6. Write an infinite loop using do while condition.
+7. Write a program to enter the numbers till the user wants and at the end it should display the count of positive, negative and zeros entered. 
