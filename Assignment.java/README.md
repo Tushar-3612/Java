@@ -51,6 +51,7 @@ Each question is solved in a **separate `.java` file** for clarity.
 2. Compile the file:  
    ```bash
    1st command in vs code javac FileName.java
+   2nd command in vs code java FileName
 
 ## 📖 Resources  
 
