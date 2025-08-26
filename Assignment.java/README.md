@@ -51,3 +51,30 @@ Each question is solved in a **separate `.java` file** for clarity.
 2. Compile the file:  
    ```bash
    javac FileName.java
+
+## 📖 Resources  
+
+### 🔹 Java Basics & Functions  
+- [Java Methods (W3Schools)](https://www.w3schools.com/java/java_methods.asp)  
+- [Methods in Java (GeeksforGeeks)](https://www.geeksforgeeks.org/methods-in-java/)  
+
+### 🔹 User Input in Java  
+- [Java Scanner Class (W3Schools)](https://www.w3schools.com/java/java_user_input.asp)  
+- [Scanner Class (GeeksforGeeks)](https://www.geeksforgeeks.org/scanner-class-in-java/)  
+
+### 🔹 Loops in Java  
+- [Java Loops (W3Schools)](https://www.w3schools.com/java/java_while_loop.asp)  
+- [Loops in Java (GeeksforGeeks)](https://www.geeksforgeeks.org/loops-in-java/)  
+
+### 🔹 Conditional Statements  
+- [Java if...else (W3Schools)](https://www.w3schools.com/java/java_conditions.asp)  
+- [Decision Making in Java (GeeksforGeeks)](https://www.geeksforgeeks.org/decision-making-javaif-else-switch-break-continue-jump/)  
+
+### 🔹 Math Functions (for Circle Circumference)  
+- [Java Math Class (W3Schools)](https://www.w3schools.com/java/java_math.asp)  
+- [Math Class in Java (GeeksforGeeks)](https://www.geeksforgeeks.org/math-class-in-java/)  
+
+### 🔹 Voting Eligibility (Comparison & Conditions)  
+- [Java Relational Operators](https://www.javatpoint.com/operators-in-java)  
+
+
