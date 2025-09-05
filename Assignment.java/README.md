@@ -4,7 +4,6 @@ This folder contains solutions to basic Java function and loop practice problems
 Each question is solved in a **separate `.java` file** for clarity.  
 
 ---
-
 ## 📌 Questions  
 
 1. **Average of 3 Numbers**  
