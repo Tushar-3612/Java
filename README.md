@@ -5,6 +5,7 @@ Each lecture folder has its own **Java programs** and folder link.
 
 ---
 
+
 ## 📘 Lecture 1 – Basics
 - `Firstclass.java`   → Print pattern `*`
 - `Variable.java`     → Arithmetic operations  
