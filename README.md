@@ -9,7 +9,7 @@ Each lecture folder has its own **Java programs** and folder link.
 - `Firstclass.java`   → Print pattern `*`
 - `Variable.java`     → Arithmetic operations  
 
-📑 [Lecture 1 Folder](./Lecture1)
+📑 [Lecture 1 Folder](./https://github.com/Tushar-3612/Java_Journey/tree/main/Leacture%201)
 
 ---
 
