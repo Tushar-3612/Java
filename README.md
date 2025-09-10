@@ -66,7 +66,7 @@ Each lecture folder has its own **Java programs** and folder link.
 - `PalindromicPattern.java`  
 - `PascalTriangle.java`  
 
-📑 [Lecture 5 Folder](Lecture5](https://github.com/Tushar-3612/Java_Journey/tree/main/Leacture%205))
+📑 [Lecture 5 Folder](https://github.com/Tushar-3612/Java_Journey/tree/main/Leacture%205)
 
 ---
 
