@@ -57,7 +57,12 @@ Input array:  {5, 7, 3, 2, 8, 9}
 Largest num is: 9
 Smallest num is: 2
 
+
 ````
+
+### Assi3.java
+Binary Search
+
 ---
 
 ## ⚙️ How to Run
