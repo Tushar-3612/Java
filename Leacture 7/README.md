@@ -60,10 +60,7 @@ Smallest num is: 2
 
 ````
 
-### Assi3.java
-Binary Search
-
----
+ 
 
 ## ⚙️ How to Run
 1. Compile the file:
