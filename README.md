@@ -91,4 +91,4 @@ Each lecture folder has its own **Java programs** and folder link.
 
 ---
 
-✍️ **This README.md keeps track of all codes & folders during my Java placement preparation journey.**
+
