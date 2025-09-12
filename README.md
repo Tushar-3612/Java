@@ -74,7 +74,7 @@ Each lecture folder has its own **Java programs** and folder link.
 - Addition using functions  
 - Prime check function  
 - Factorial function  
-- Other practice problems  
+ 
 
 📑 [Lecture 6 Folder](https://github.com/Tushar-3612/Java_Journey/tree/main/Leacture%206)
 
