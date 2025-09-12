@@ -85,7 +85,7 @@ Each lecture folder has its own **Java programs** and folder link.
 - Largest / Smallest element in array  
 - Sum of array elements
 - Binary Search 
-- Other array assignments  
+  
 
 📑 [Lecture 7 Folder](https://github.com/Tushar-3612/Java_Journey/tree/main/Leacture%207)
 
