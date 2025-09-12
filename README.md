@@ -91,4 +91,6 @@ Each lecture folder has its own **Java programs** and folder link.
 
 ---
 
+## Assignment 1
+
 
