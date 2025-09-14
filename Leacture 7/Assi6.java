@@ -1,4 +1,3 @@
-
 public class Assi6 {
     public static void pairs(int num[]){
         int count =0;
@@ -17,6 +16,7 @@ public class Assi6 {
         pairs(num);
     }
 }
+
 
 
 
