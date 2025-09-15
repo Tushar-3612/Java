@@ -59,10 +59,13 @@ Smallest num is: 2
 
 
  ---
-### 🔹 Assi2.java
+### 🔹 Assi4.java
 - Demonstrates **Binary Search**
 
- 
+---
+### 🔹 `Assi5.java`
+- Reverse A number 
+
 
 ## ⚙️ How to Run
 1. Compile the file:
