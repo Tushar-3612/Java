@@ -66,6 +66,10 @@ Smallest num is: 2
 ### 🔹 `Assi5.java`
 - Reverse A number 
 
+---
+### 🔹 `Assi6.java`
+-  Count The Total pairs from In Array
+  
 
 ## ⚙️ How to Run
 1. Compile the file:
