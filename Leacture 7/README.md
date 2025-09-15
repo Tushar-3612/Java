@@ -58,7 +58,9 @@ Largest num is: 9
 Smallest num is: 2
 
 
-````
+ ---
+### 🔹 Assi2.java
+- Demonstrates **Binary Search**
 
  
 
