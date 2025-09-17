@@ -4,8 +4,7 @@ public class Assi1{
      public static double Average(int a , int b ,int c ){
          
       double ans= (a+b+c)/3.0;
-          return ans;
-          
+          return ans;    
      }
 public static void main(String[] args) {
     Scanner sc =new Scanner(System.in);
@@ -19,5 +18,6 @@ public static void main(String[] args) {
      System.out.println("The Average Of "+ans);
 }
 }
+
 
 
