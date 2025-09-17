@@ -7,7 +7,6 @@ public class Assi1{
           return ans;
           
      }
-     
 public static void main(String[] args) {
     Scanner sc =new Scanner(System.in);
     System.out.println("Enter The Number 1");
@@ -20,4 +19,5 @@ public static void main(String[] args) {
      System.out.println("The Average Of "+ans);
 }
 }
+
 
