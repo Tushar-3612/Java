@@ -5,13 +5,11 @@ Each lecture folder has its own **Java programs** and folder link.
 
 ---
 
-
 ## 📘 Lecture 1 – Basics
 - `Firstclass.java`   → Print pattern `*`
 - `Variable.java`     → Arithmetic operations  
 
 📑 [Lecture 1 Folder](https://github.com/Tushar-3612/Java_Journey/tree/main/Leacture%201)
-
 
 ---
 
