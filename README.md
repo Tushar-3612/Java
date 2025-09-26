@@ -111,8 +111,14 @@ Each question is solved in a **separate `.java` file** for clarity.
 ## 📘 Lecture 6 – Functions
 - Addition using functions  
 - Prime check function  
-- Factorial function  
- 
+- Factorial function
+- Table code
+- Bionomial function
+- Decimal To Binary
+- Sum
+- Sum And Average
+- Swap Function
+
 
 📑 [Lecture 6 Folder](https://github.com/Tushar-3612/Java_Journey/tree/main/Leacture%206)
 
