@@ -115,10 +115,11 @@ Each question is solved in a **separate `.java` file** for clarity.
 - Table code
 - Bionomial function
 - Decimal To Binary
-- Sum
+- Sum code 
 - Sum And Average
 - Swap Function
-
+- Divison Code
+- Prime Number Code 
 
 📑 [Lecture 6 Folder](https://github.com/Tushar-3612/Java_Journey/tree/main/Leacture%206)
 
